@@ -5,9 +5,59 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(209, 209, 250);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.card{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+ 
+}
+nav.primary{
+  background-color: aliceblue;
+  padding: 16px 32px;
+}
+nav a{
+  margin-right: 16px;
+}
+/*nav a.active{
+  text-decoration: none;
+  font-weight: bold;
+  
+}*/
+.card-item{
+  background-color: rgb(247, 190, 169);
+  text-decoration: none;
+  margin-bottom: 20px;
+  color: rgb(78, 61, 61);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px grey;
+}
+.loading{
+ position: absolute;
+ top: 50%;
+ left:50%;
+ transform: translate(-50%,-50%);
+ font-size: 100px;
+ color: goldenrod;
+}
+.episode{
+  color: rgb(114, 100, 20);
+  font-size: 30px;
+}
+.epi{
+  color: rgb(14, 128, 20);
+}
+.name{
+  font-size: 50px;
+  color: goldenrod;
+}
+.onech{
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px grey;
 }
