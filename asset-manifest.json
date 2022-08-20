@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-graphql/static/css/main.a059d87e.css",
+    "main.js": "/react-graphql/static/js/main.9fd7b75b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-graphql/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react-graphql/index.html",
+    "main.a059d87e.css.map": "/react-graphql/static/css/main.a059d87e.css.map",
+    "main.9fd7b75b.js.map": "/react-graphql/static/js/main.9fd7b75b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-graphql/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a059d87e.css",
+    "static/js/main.9fd7b75b.js"
+  ]
+}
